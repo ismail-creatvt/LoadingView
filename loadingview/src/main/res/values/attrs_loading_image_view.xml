@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="LoadingImageStates">
+        <attr name="state_initial" format="boolean"/>
+        <attr name="state_slow_loading" format="boolean"/>
+        <attr name="state_fast_loading" format="boolean"/>
+        <attr name="state_finish" format="boolean"/>
+    </declare-styleable>
+</resources>
